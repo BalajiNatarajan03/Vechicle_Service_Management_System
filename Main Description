@@ -1,0 +1,20 @@
+This project entitled “vehicle service management system” is done for the objective of the
+system is to automate all the processes of car servicing company. It includes services like
+Water Wash, Repairing Services and Spare parts Services. The main objective of the system is
+to computerize all manual entries of a company activities. Manual entries are Car Details,
+Employee Details, Salary Slip, Customer Details and Billing Services
+The project is developed by using PHP as front end and PHP as back end.
+
+OBJECTIVES OF THE VEHICLE SERVICE MANAGEMENT SYSTEM:
+1. Proper service
+2. Prompt delivery
+3. Customer Friendly
+4. Risk management
+5. Profit maximization
+
+
+THE FOLLOWING ARE THE MAJOR MODULES THAT ARE USED IN THIS PROJECT:
+1. Enquiry Details
+2. Service Details
+3. Service Booking Details
+4. Payment
